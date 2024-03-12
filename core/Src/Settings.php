@@ -31,4 +31,3 @@ class Settings
        return '/' . $this->path['views'] ?? '';
    }
 }
-

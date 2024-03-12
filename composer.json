@@ -1,0 +1,14 @@
+{
+    "name": "stas2/htdocs",
+    "description": "cool project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "viVo4s",
+            "email": "stas22900@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
